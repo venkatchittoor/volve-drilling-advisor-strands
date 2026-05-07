@@ -1,0 +1,15 @@
+current_well,depth_from_m,depth_to_m,expected_drillability,basis
+15_9-F-1C,3100.0,3200.0,HARD,RHOB 2.55-2.56 g/cc; dense cemented limestone; near-zero porosity
+15_9-F-1C,3200.0,3200.0,MODERATE,GR 107.7 shale; softer than carbonate but plastic; torque/drag risk
+15_9-F-1C,3250.0,3350.0,HARD,RHOB 2.36-2.47 g/cc; tight carbonate; low NPHI confirms low porosity
+15_9-F-1C,3350.0,3350.0,HARD,RT 1809 ohm.m tight HC-bearing limestone; cemented matrix expected
+15_9-F-1C,3400.0,3400.0,MODERATE,"RHOB 2.345, NPHI 0.228 — best porosity shallow section; less cemented"
+15_9-F-1C,3450.0,3450.0,HARD,"RHOB 2.39, NPHI 0.174 — tight; offset F-11A shows hard DT at similar depth"
+15_9-F-1C,3500.0,3550.0,MODERATE,RHOB 2.31-2.35 lower than offsets; cleaner GR suggests less cementation
+15_9-F-1C,3600.0,3600.0,MODERATE,RHOB 2.248 lightest in section; good porosity infers softer formation
+15_9-F-1C,3650.0,3650.0,MODERATE,"RHOB 2.286, NPHI 0.217 — moderate porosity; offset F-11A moderate at depth"
+15_9-F-1C,3700.0,3700.0,MODERATE,RHOB 2.225 very low; very clean GR 14.3; porous sand likely softer matrix
+15_9-F-1C,3750.0,3750.0,MODERATE,"RHOB 2.257, GR 25.9 — moderate porosity; consistent with offset character"
+15_9-F-1C,3800.0,3900.0,MODERATE,RHOB 2.31-2.32 consistently; 0.24-0.32 lighter than offsets; porous HC sand
+15_9-F-1C,3950.0,3950.0,HARD,"RHOB 2.349, NPHI 0.159 very low; dense tight matrix despite clean GR"
+15_9-F-1C,4000.0,4050.0,MODERATE,High GR shale 74-110 API; RHOB 2.43-2.51 dense but plastic shale character
